@@ -9,3 +9,4 @@ Here are some random Python packages & utilities that I find useful while develo
 - [grip](https://github.com/joeyespo/grip): Preview README files exactly as they appear on Github
 - [knockknock](https://github.com/huggingface/knockknock): Send notifications (Slack, e-mail, ...) when a long-running task finishes (useful for machine learning)
 - [Typer](https://typer.tiangolo.com/): Build CLIs quickly based on Python type hints
+- [black](https://github.com/psf/black): Code formatting made simple
